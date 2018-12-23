@@ -35,7 +35,7 @@ void SIGINT_handler(){
 /*
 * Prints the given value to the LED display. If I had been working with a byte instead of
 * 5 bits, this would have been waaay easier to write since I'm pretty sure there would have
-* been an easier way of parsing the value to binary.
+* been an easier way of parsing the value to binary. Unfortunately, I only have 5 LEDs. 
 */
 void updateDisplay(int val){
 	if (val >= 0){
