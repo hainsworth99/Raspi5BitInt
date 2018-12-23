@@ -1,7 +1,7 @@
 # Raspi5BitInt
 
 Dependencies:
-	-wiringPi, install using the following commands:
+	wiringPi, install using the following commands:
 		> git clone git://git.drogon.net/wiringPi
 		> cd wiringPi
 		> git pull origin
