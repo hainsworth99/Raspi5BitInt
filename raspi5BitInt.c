@@ -100,6 +100,9 @@ int main(int argc, char **argv){
 	// Value begins at 0
 	int value = 0;
 
+	// Indicate program has begun
+	printf("Program started. Value: %d\n", value);
+
 	// Main loop
 	while (1){
 		updateDisplay(value);
