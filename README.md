@@ -12,6 +12,6 @@ git pull origin
 
 # Usage
 ```bash
-gcc -o Raspi5BitInt Raspi5Bitint.c -l wiringPi
-sudo ./Raspi5BitInt
+make
+./raspi5BitIn
 ```
