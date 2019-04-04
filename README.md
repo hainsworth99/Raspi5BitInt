@@ -1,5 +1,5 @@
 # Raspi5BitInt 
-A simple program I wrote to familiarize myself with using simple Raspberry Pi GPIO input/output. Prints an 5-bit integer value to an array of 5 LEDs, which can be incremented/decremented by two push buttons. 
+A simple program I wrote to familiarize myself with using Raspberry Pi GPIO input/output libraries. Prints an 5-bit integer value to an array of 5 LEDs, which can be incremented/decremented by two push buttons. 
 
 # Dependencies
 * wiringPi - A C library for connecting to Raspi GPIO pins 
